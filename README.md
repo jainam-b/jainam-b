@@ -5,7 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainam-b" alt="jainam-b" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jainambagr67095" target="blank"><img src="https://img.shields.io/twitter/follow/jainambagr67095?logo=twitter&style=for-the-badge" alt="jainambagr67095" /></a> </p>
+<div align="center">
+  <a href="www.linkedin.com/in/jainam-bagrecha-connect" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Jainambagr67095" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/1180182319739441212/1180182320343433360" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/jainam-b/Cohort-2)
 
