@@ -2,10 +2,6 @@
 <h3 align="center">Web Developer crafting the digital realm! 💻 | MERN Stack  🚀 | Python, Django, Next.js enthusiast 🛠️ | BCA Student 🎓 | Cybersecurity Explorer 🔐 | Passionate about collaborative coding and open-source. Let's write impactful code and inspire innovation together!!</h3>
 
 
-
-
-
-
 - 🔭 I’m currently working on [JavaScript](https://github.com/jainam-b/Cohort-2)
 
 - 🌱 I’m currently learning **React,mongoDB,node.js**
