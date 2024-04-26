@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jainam bagrecha</h1>
-
+<h3>Crafting the digital world with code! 💻 | Web Developer 🌐 | MERN Stack 🚀 | Django, Next.js, Python, MySQL, MongoDB 🛠️ | BCA Student 🎓 |  🤝 Let's connect .</h3>
 
 
 - 🔭 I’m currently working on [MERN](https://github.com/jainam-b/Cohort-2)
