@@ -25,7 +25,7 @@ My Github Stats
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,express,fastapi,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
