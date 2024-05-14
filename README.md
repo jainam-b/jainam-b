@@ -17,8 +17,6 @@ My Github Stats
 
 </details>
 
-
-
 <h2>Languages</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,java)](https://skillicons.dev)
