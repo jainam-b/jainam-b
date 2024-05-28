@@ -5,7 +5,6 @@
   I like making, breaking, experimenting, developing and learning things about
   the web.
 </h4>
-
 <h2>GitHub Stats</h2>
 <details>
 <summary> 
