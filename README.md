@@ -6,7 +6,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/jainam-bagrecha-connect)
 ![border-seperator](assets/borderseparator.gif) 
   
-![](https://komarev.com/ghpvc/?username=vineeTagarwaL-code)
+![](https://komarev.com/ghpvc/?username=jainam-b)
 ## About Jainam
 <p style="font-size:7px;">
  I like making, breaking, experimenting, developing and learning things about the web.
