@@ -44,7 +44,9 @@
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=jainam-b&theme=midnight-purple" style="margin-right:4px;">
 <img src="https://streak-stats.demolab.com/?user=jainam-b&theme=holi-theme">
+
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jainam-b&theme=aura_dark)
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
