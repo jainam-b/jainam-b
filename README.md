@@ -1,3 +1,4 @@
+
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Jainam%F0%9F%91%8B;Let's+Connect!"/>
 </div>
@@ -11,7 +12,7 @@
 <p style="font-size:7px;">
  I'm a Full Stack Developer passionate about making, breaking, experimenting, developing, and learning things about the web. 
 <!-- </p>
-
+<p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary. </p> -->
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
