@@ -11,7 +11,7 @@
 <p style="font-size:7px;">
  I'm a Full Stack Developer passionate about making, breaking, experimenting, developing, and learning things about the web. 
 <!-- </p>
-<p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary. </p> -->
+
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
