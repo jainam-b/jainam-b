@@ -53,9 +53,3 @@
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
 
 
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/jainam-b/repos?time_range=all_time&include_private=True&loc_metric=changed&group=private" />
-</a>
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/jainam-b/langs?time_range=all_time&include_private=True&loc_metric=changed" />
-</a>
