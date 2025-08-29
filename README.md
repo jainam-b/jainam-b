@@ -5,7 +5,7 @@
 
 <!-- Animated social links with hover effect -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/jainam-bagrecha-connect" target="_blank">
+  <a href="www.linkedin.com/in/jainambagrecha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
